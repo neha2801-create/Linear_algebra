@@ -1,1 +1,1 @@
-# Linear_alzebra
+# Linear_algebra
